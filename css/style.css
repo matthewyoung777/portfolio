@@ -10959,6 +10959,7 @@ h5,
     position: relative;
     z-index: 0;
 }
+
 .navbar-brand:after {
     position: absolute;
     top: 50%;
@@ -10978,6 +10979,8 @@ h5,
 }
 .navbar-brand span {
     color: #fff;
+    font-family: "Poppins", Arial, sans-serif;
+    background-color: #3e64ff;
 }
 
 .hero-wrap {
