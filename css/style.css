@@ -90,6 +90,19 @@ hr {
     overflow: visible;
 }
 
+.description,
+ul li {
+    color: rgb(19, 19, 19);
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.project-display {
+    text-shadow: 2px 2px #000;
+}
+
 h1,
 h2,
 h3,
@@ -11501,7 +11514,7 @@ h5,
 
 .progress-wrap {
     width: 100%;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .progress-wrap h3 {
     font-size: 16px;
